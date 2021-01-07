@@ -31,7 +31,7 @@ jsonfield==2.0.2
 
 requests==2.18.4
 slumber==0.7.1
-lxml==4.2.1
+lxml==4.6.2
 defusedxml==0.5.0
 
 # Basic tools
